@@ -39,6 +39,7 @@
     "react-places-autocomplete": "^2.6.0"
   },
   "engines": {
-    "node": "4.1.1"
+    "node": "6.9.4",
+    "npm": "3.10.10"
   }
 }
