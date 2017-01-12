@@ -1,7 +1,9 @@
 import React from 'react'
 import { render } from 'react-dom'
 import App from './components/app'
+import Weather from './components/Weather'
 import './styles/app.scss'
+
 
 render(<Weather/>, document.getElementById('root'))
 
