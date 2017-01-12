@@ -37,5 +37,8 @@
     "react": "^0.14.6",
     "react-dom": "^0.14.6",
     "react-places-autocomplete": "^2.6.0"
+  },
+  "engines": {
+    "node": "4.1.1"
   }
 }
